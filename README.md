@@ -19,13 +19,9 @@ Europa teams is a website that gives you a detailed view to the teams whom are c
 
 1. clone this repository.
 2. Open the project folder in terminal.
-3. Start the PHP development server:
-
-```bash
-php -S localhost:8000
+3. Start the PHP development server by running php -S localhost:8000
+4. open http://localhost:8000 in your browser.
 
 ## Author
 
 William Landinson
-
-```

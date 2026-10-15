@@ -15,6 +15,3 @@
             <a href="about.php">About</a>
         </nav>
     </header>
-</body>
-
-</html>

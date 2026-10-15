@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Europa Teams</title>
+</head>
+
+<body>
+    <header>
+        <nav aria-label="Main Navigation">
+            <a href="index.php">Teams</a>
+            <a href="about.php">About</a>
+        </nav>
+    </header>
+</body>
+
+</html>
